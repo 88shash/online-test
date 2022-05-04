@@ -1,0 +1,5 @@
+To run this file, create a json file which has the token to connect to the cloud
+
+Set the following environment variable
+
+export GOOGLE_APPLICATION_CREDENTIALS=<path_to_json_file>
